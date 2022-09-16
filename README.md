@@ -1,11 +1,8 @@
-<!doctype> 
+
 <html>
 
 <HEAD>
 
-
-
-<TITLE> BIOLOGY ANSWER TERM 1 </TITLE>
 
 
 <H1> <CENTER> BIOLOGY TERM 1 REVISION QUESTION ANSWER </CENTER> </H1>
@@ -103,39 +100,39 @@ They perform a variety of functions that include protection, secretion, absorpti
 
 <h1>11.Give 2 example of each:</h1>
 
-<h2><center>Chronic disease </center><h2>
+<h2>Chronic disease <h2>
 <h2> 1.CANCER 2.HEART DISEASE </h2>
 
-<h2><center> Bacterial disease</center></h2>
+<h2> Bacterial disease</h2>
 
 <h2> 1.CHOLERA 2.DIPTHERIA </h2>
 
-<H2><CENTER>Viral disease </center></h2>
+<H2>Viral disease</h2>
 
 <h2> 1.AIDS 2.CHICKENPOX </H2>
 
 
 
-<h2><center>Protozoa</CENTER></H2>
+<h2>Protozoa</H2>
 
 <H2> 1.MALARIA 2.TOXOPLASMOSIS </H2>
 
-<H2><CENTER>Fungus disease</CENTER></H2>
+<H2>Fungus disease</H2>
 
 <h2> 1.RINGWORM 2.YEAST INFECTION </h2>
 
 <h2>12.What is AIDS?Explain its causes sympton and precaution.</h2>
 <h2>ANS.Acquired Immune Deficiency Syndrome or AIDS(It spread by HIV)its infective human immune system.Its cronic and infectious disease.
-<H2><center>CAUSES</CENTER></H2>
+<H2>CAUSES</H2>
 <H2>1.Unprotected sexual intercourse.</H2>
 <H2>2.Through bloof transmission.</H2>
 <H2>3.Infected injection.</H2>
 <H2>4.From infected mother to childer.</H2>
-<H2><center>SYMPTONS</CENTER></H2>
+<H2>SYMPTONS</H2>
 <H2>1.Immune system getting weak day by day.</H2>
 <H2>2.Weight loss.</H2>
 <H2>Sweat during sleep.</H2>
-<H2><center>PREVENTION</CENTER></H2>
+<H2>PREVENTION</H2>
 <H2>Always keep protected sex honest to 1 partner.</H2>
 
 
@@ -160,5 +157,6 @@ They perform a variety of functions that include protection, secretion, absorpti
 
 
 </BODY>
+ </html>
 
 
