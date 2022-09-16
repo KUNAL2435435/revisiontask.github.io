@@ -125,9 +125,9 @@ They perform a variety of functions that include protection, secretion, absorpti
 <h2>ANS.Acquired Immune Deficiency Syndrome or AIDS(It spread by HIV)its infective human immune system.Its cronic and infectious disease.
 <H2>CAUSES</H2>
 <H2>1.Unprotected sexual intercourse.</H2>
-<H2>2.Through bloof transmission.</H2>
+<H2>2.Through blood transmission.</H2>
 <H2>3.Infected injection.</H2>
-<H2>4.From infected mother to childer.</H2>
+<H2>4.From infected mother to children.</H2>
 <H2>SYMPTONS</H2>
 <H2>1.Immune system getting weak day by day.</H2>
 <H2>2.Weight loss.</H2>
