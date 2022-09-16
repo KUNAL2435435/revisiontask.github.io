@@ -1,6 +1,6 @@
-<!doctype HTML> 
+<!doctype> 
 <html>
-<BODY style=''background-color;blue''>
+
 <HEAD>
 
 
